@@ -1,0 +1,98 @@
+
+#########################################################################################
+[LABORATION] Binary search
+##
+## Important note: This is a machine-readable config file that will be read using 
+## the Python 'configparser' library: https://docs.python.org/3/library/configparser.html
+##
+## Please follow these rules when editing this file:
+##  1. Only write your answer where there is a [...] stub.
+##  2. Multiline answers must be indented.
+##  3. Don't change anything else.
+#########################################################################################
+
+# Which programming language did you implement in? 
+# (Write only Java or Python)
+
+Language: [...]
+
+
+# Who are you?
+
+Student: [...]
+
+
+#########################################################################################
+[PART 3] Test your implementation
+#########################################################################################
+
+# How many comparisons does 'firstIndexOf' use *at most* for an array of...
+
+# ... 10 elements?
+Q3a: [...]
+
+# ... 100 elements?
+Q3b: [...]
+
+# ... 1,000 elements?
+Q3c: [...]
+
+# ... 1,000,000 elements?
+Q3d: [...]
+
+
+#########################################################################################
+[PART 4] Reason about your implementation
+#########################################################################################
+
+# How many comparisons would 'firstIndexOf' need for 1,000,000,000,000 elements?
+# (This is way too big for your computer's memory!)
+# Justify your answer.
+
+Q4a:
+    [...]
+
+
+#########################################################################################
+[APPENDIX] General information
+#########################################################################################
+
+# Approximately how many hours did you spend on the assignment?
+
+Hours: [...]
+
+
+# Are there any known bugs or limitations?
+
+Bugs:
+    [...]
+
+Limitations:
+    [...]
+
+
+# Did you collaborate with any other students on this lab?
+# 
+#   If so, please write in what way you collaborated and with whom.
+#   Also include any resources (including the web) that you may
+#   have used in creating your design.
+
+Collaborations: 
+    [...]
+
+
+# Describe any serious problems you encountered.
+
+Problems: 
+    [...]
+
+
+# List any other comments here.
+#
+#   Feel free to provide any feedback on how much you learned
+#   from doing the assignment, and whether you enjoyed it.
+
+Comments: 
+    [...]
+
+
